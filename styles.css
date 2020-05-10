@@ -51,14 +51,14 @@ header{
 .nav-link:hover{
     color: rgba(255, 255,255,.5);
 }
-#shopping-bag i{
+.shopping-bag i{
     display: inline-block;
     font-size: 1.8rem;
     color: #fff;
     cursor: pointer;
     transform: translateX(-2rem);
 }
-#bag-item-count{
+.bag-item-count{
     width: 2rem;
     height: 2rem;
     background-color: #9DF9EF;
